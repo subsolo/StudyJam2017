@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_33dcc35b8243c44f704b0ab0a3f6b3f19fd88764/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_7004fb399da89e1d3d6a1950a634f98084a2b6a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_bfc592138ec0e8c5494b11bda3e06006dca9aa44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_34da35ad4cb3f4531d6b87921d0070c5fd9eb3ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_28a6a0f25915a3e1b07ffccbf2c9e4220a1fff58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea57996875b3c9248e4ad3890580462f5d2cca91">
+        <dex dex="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7bbe37a4749b90f675fd81da86b3c3792da45aad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_0ddd1c91c610251f90300717d20dac8f1de3293a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_27f29ed8b789f3f61f88d52c924b1a14ec94635e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="404f2f288bbfc81ad03ab00aef332005d593fa7f">
+        <dex dex="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b5678fd7299c00adf512935a70c177827ff5eaac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_9dd73eb503e0eeb4367d20dddc5c2babc2f6f48c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_6d8bde9c6f023d83c4899fe43d4c417554aa2cf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/developer/Downloads/Studyjam2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_f6b10d5f7aedcc7746dd4357bce1ad7f4bc39eea/classes.dex" />
+    </item>
+
+</items>
